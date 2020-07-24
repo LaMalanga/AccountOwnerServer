@@ -1,0 +1,14 @@
+C:\Users\REBEC\OneDrive\Desktop\REDWOOD\AccountOwnerServer\LoggerService\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\REBEC\OneDrive\Desktop\REDWOOD\AccountOwnerServer\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csprojAssemblyReference.cache
+C:\Users\REBEC\OneDrive\Desktop\REDWOOD\AccountOwnerServer\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfoInputs.cache
+C:\Users\REBEC\OneDrive\Desktop\REDWOOD\AccountOwnerServer\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfo.cs
+C:\Users\REBEC\OneDrive\Desktop\REDWOOD\AccountOwnerServer\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.deps.json
+C:\Users\REBEC\OneDrive\Desktop\REDWOOD\AccountOwnerServer\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.dll
+C:\Users\REBEC\OneDrive\Desktop\REDWOOD\AccountOwnerServer\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.pdb
+C:\Users\REBEC\OneDrive\Desktop\REDWOOD\AccountOwnerServer\LoggerService\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\REBEC\OneDrive\Desktop\REDWOOD\AccountOwnerServer\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CoreCompileInputs.cache
+C:\Users\REBEC\OneDrive\Desktop\REDWOOD\AccountOwnerServer\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CopyComplete
+C:\Users\REBEC\OneDrive\Desktop\REDWOOD\AccountOwnerServer\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.dll
+C:\Users\REBEC\OneDrive\Desktop\REDWOOD\AccountOwnerServer\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.pdb
+C:\Users\REBEC\OneDrive\Desktop\REDWOOD\AccountOwnerServer\LoggerService\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\REBEC\OneDrive\Desktop\REDWOOD\AccountOwnerServer\LoggerService\bin\Debug\netcoreapp3.1\Entities.pdb

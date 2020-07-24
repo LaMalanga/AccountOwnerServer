@@ -1,0 +1,8 @@
+2020-07-23 15:43:48.0554 INFO Returned all owners from database.
+2020-07-23 15:43:54.8268 INFO Returned all owners from database.
+2020-07-23 16:16:07.9795 INFO Returned all owners from database.
+2020-07-23 16:17:17.6517 INFO Returned owner with id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2020-07-23 16:17:38.7849 ERROR Owner with id: f98e4d74-0f68-4aac-89fd-047f1aaca6b8, hasn't been found in db.
+2020-07-23 16:23:31.5238 INFO Returned owner with id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2020-07-23 16:23:37.2159 ERROR Owner with id: f98e4d74-0f68-4aac-89fd-047f1aaca6b9, hasn't been found in db.
+2020-07-23 16:54:39.7561 INFO Returned owner with details for id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6

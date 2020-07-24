@@ -1,0 +1,14 @@
+C:\Users\REBEC\OneDrive\Desktop\REDWOOD\AccountOwnerServer\Repository\bin\Debug\netcoreapp3.1\Repository.deps.json
+C:\Users\REBEC\OneDrive\Desktop\REDWOOD\AccountOwnerServer\Repository\bin\Debug\netcoreapp3.1\Repository.dll
+C:\Users\REBEC\OneDrive\Desktop\REDWOOD\AccountOwnerServer\Repository\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\Users\REBEC\OneDrive\Desktop\REDWOOD\AccountOwnerServer\Repository\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\REBEC\OneDrive\Desktop\REDWOOD\AccountOwnerServer\Repository\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\REBEC\OneDrive\Desktop\REDWOOD\AccountOwnerServer\Repository\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\REBEC\OneDrive\Desktop\REDWOOD\AccountOwnerServer\Repository\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\REBEC\OneDrive\Desktop\REDWOOD\AccountOwnerServer\Repository\obj\Debug\netcoreapp3.1\Repository.csprojAssemblyReference.cache
+C:\Users\REBEC\OneDrive\Desktop\REDWOOD\AccountOwnerServer\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+C:\Users\REBEC\OneDrive\Desktop\REDWOOD\AccountOwnerServer\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfo.cs
+C:\Users\REBEC\OneDrive\Desktop\REDWOOD\AccountOwnerServer\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CoreCompileInputs.cache
+C:\Users\REBEC\OneDrive\Desktop\REDWOOD\AccountOwnerServer\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CopyComplete
+C:\Users\REBEC\OneDrive\Desktop\REDWOOD\AccountOwnerServer\Repository\obj\Debug\netcoreapp3.1\Repository.dll
+C:\Users\REBEC\OneDrive\Desktop\REDWOOD\AccountOwnerServer\Repository\obj\Debug\netcoreapp3.1\Repository.pdb
