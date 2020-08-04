@@ -8,7 +8,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 namespace Entities.Models
 {
     [Table("account")]
-    public class Account: IEntity
+    public class Account : IEntity
     {
         [Key]
         [Column("AccountId")]
@@ -18,9 +18,13 @@ namespace Entities.Models
         public DateTime DateCreated { get; set; }
 
         [Required(ErrorMessage = "Account type is required")]
-        public string AccountType { get; set; }
+        public String AccountType { get; set; }
 
         [Required(ErrorMessage = "Owner Id is required")]
         public Guid OwnerId { get; set; }
+
+
+
+
     }
 }

@@ -117,7 +117,7 @@ namespace AccountOwnerServer.Controllers
             }
         }
 
-        [HttpPost("{id}")]
+        [HttpPut("{id}")]
         public async Task <IActionResult> UpdateOwner(Guid id, [FromBody] Owner owner)
         {
             try
@@ -167,7 +167,7 @@ namespace AccountOwnerServer.Controllers
                     return NotFound("Owner object is null");
                 }
 
-                if (_repository. Account.AccountsByOwner(id).Any())
+                if (_repository. Account.GetAllAccounts(id).Any())
                 {
                     _logger.LogError($"Cannot delete owner with id {id}. Owner has existing accounts. Delete those accounts first");
                     return BadRequest($"Cannot delete owner with id {id}. Owner has existing accounts. Delete those accounts first");

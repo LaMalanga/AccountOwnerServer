@@ -1,0 +1,17 @@
+2020-07-27 15:03:02.6344 INFO Returned all owners from database.
+2020-07-27 15:16:20.0496 INFO Returned all owners from database.
+2020-07-27 15:19:55.4019 INFO Returned all owners from database.
+2020-07-27 15:21:17.0807 INFO Returned all owners from database.
+2020-07-27 15:23:27.3122 INFO Returned all owners from database.
+2020-07-27 15:37:09.7220 INFO Returned all owners from database.
+2020-07-27 15:37:11.7661 INFO Returned all owners from database.
+2020-07-27 15:39:18.7797 INFO Returned all owners from database.
+2020-07-27 15:40:05.0642 INFO Returned all owners from database.
+2020-07-27 16:18:50.5543 INFO Returned all owners from database.
+2020-07-27 17:02:57.3833 INFO Returned all owners from database.
+2020-07-27 17:04:33.1404 INFO Returned all owners from database.
+2020-07-27 17:04:50.1760 INFO Returned all owners from database.
+2020-07-27 17:05:27.6278 INFO Returned all owners from database.
+2020-07-27 17:05:30.1826 INFO Returned owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2020-07-27 17:05:37.5619 INFO Returned all owners from database.
+2020-07-27 17:05:41.6389 INFO Returned owner with details for id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906

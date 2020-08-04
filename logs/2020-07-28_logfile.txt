@@ -1,0 +1,5 @@
+2020-07-28 11:57:17.2665 INFO Returned all owners from database.
+2020-07-28 15:44:27.1020 INFO Returned all owners from database.
+2020-07-28 15:45:42.8156 INFO Returned all owners from database.
+2020-07-28 15:45:49.6936 INFO Returned owner with details for id: 90e0e311-27bf-47e5-9278-6e511272a7b7
+2020-07-28 15:45:52.3239 INFO Returned all owners from database.

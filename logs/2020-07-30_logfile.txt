@@ -1,0 +1,79 @@
+2020-07-30 10:59:09.0059 INFO Returned all owners from database.
+2020-07-30 10:59:31.2320 INFO Returned all owners from database.
+2020-07-30 10:59:40.1490 INFO Returned all owners from database.
+2020-07-30 11:08:05.0043 INFO Returned all owners from database.
+2020-07-30 11:16:22.1336 INFO Returned all owners from database.
+2020-07-30 11:16:28.2332 INFO Returned owner with id: 90e0e311-27bf-47e5-9278-6e511272a7b7
+2020-07-30 11:22:24.9445 INFO Returned owner with id: 90e0e311-27bf-47e5-9278-6e511272a7b7
+2020-07-30 11:22:31.2962 INFO Returned owner with id: 90e0e311-27bf-47e5-9278-6e511272a7b7
+2020-07-30 11:23:34.0967 INFO Returned all owners from database.
+2020-07-30 11:23:36.4827 INFO Returned owner with id: 90e0e311-27bf-47e5-9278-6e511272a7b7
+2020-07-30 11:32:23.1957 INFO Returned all owners from database.
+2020-07-30 11:32:23.1957 INFO Returned owner with id: 90e0e311-27bf-47e5-9278-6e511272a7b7
+2020-07-30 11:32:40.1516 INFO Returned all owners from database.
+2020-07-30 11:32:42.7544 INFO Returned owner with id: 90e0e311-27bf-47e5-9278-6e511272a7b7
+2020-07-30 11:32:54.5159 INFO Returned all owners from database.
+2020-07-30 11:34:02.4074 INFO Returned all owners from database.
+2020-07-30 11:34:46.6981 INFO Returned all owners from database.
+2020-07-30 11:34:55.7984 INFO Returned all owners from database.
+2020-07-30 11:35:10.5284 INFO Returned owner with id: 90e0e311-27bf-47e5-9278-6e511272a7b7
+2020-07-30 11:35:12.6583 INFO Returned all owners from database.
+2020-07-30 11:35:39.7547 INFO Returned owner with details for id: 90e0e311-27bf-47e5-9278-6e511272a7b7
+2020-07-30 11:35:42.5678 INFO Returned all owners from database.
+2020-07-30 11:35:44.3780 INFO Returned owner with details for id: 261e1685-cf26-494c-b17c-3546e65f5620
+2020-07-30 11:35:46.4036 INFO Returned all owners from database.
+2020-07-30 11:54:30.7805 INFO Returned all owners from database.
+2020-07-30 11:54:50.4892 INFO Returned all owners from database.
+2020-07-30 11:54:52.3613 INFO Returned all owners from database.
+2020-07-30 11:55:03.0217 INFO Returned all owners from database.
+2020-07-30 11:55:06.1096 INFO Returned all owners from database.
+2020-07-30 12:31:47.3271 INFO Returned all owners from database.
+2020-07-30 12:31:55.2819 INFO Returned owner with id: 90e0e311-27bf-47e5-9278-6e511272a7b7
+2020-07-30 12:32:47.5032 INFO Returned owner with id: 90e0e311-27bf-47e5-9278-6e511272a7b7
+2020-07-30 12:33:22.2683 INFO Returned owner with id: 90e0e311-27bf-47e5-9278-6e511272a7b7
+2020-07-30 12:33:28.3531 INFO Returned owner with id: 90e0e311-27bf-47e5-9278-6e511272a7b7
+2020-07-30 12:33:38.5865 INFO Returned owner with id: 90e0e311-27bf-47e5-9278-6e511272a7b7
+2020-07-30 12:33:44.7429 INFO Returned owner with id: 90e0e311-27bf-47e5-9278-6e511272a7b7
+2020-07-30 12:33:49.7730 INFO Returned all owners from database.
+2020-07-30 12:35:44.6421 INFO Returned all owners from database.
+2020-07-30 12:36:00.4086 INFO Returned all owners from database.
+2020-07-30 12:36:02.3113 INFO Returned all owners from database.
+2020-07-30 12:36:55.8873 INFO Returned all owners from database.
+2020-07-30 12:36:56.7030 INFO Returned all owners from database.
+2020-07-30 12:37:27.3491 INFO Returned all owners from database.
+2020-07-30 12:40:47.1138 INFO Returned all owners from database.
+2020-07-30 12:40:59.5079 INFO Returned owner with id: 24fd81f8-d58a-4bcc-9f35-dc6cd5641906
+2020-07-30 12:41:01.5398 ERROR Cannot delete owner with id 24fd81f8-d58a-4bcc-9f35-dc6cd5641906. Owner has existing accounts. Delete those accounts first
+2020-07-30 12:41:04.0246 ERROR Cannot delete owner with id 24fd81f8-d58a-4bcc-9f35-dc6cd5641906. Owner has existing accounts. Delete those accounts first
+2020-07-30 12:41:06.1021 INFO Returned all owners from database.
+2020-07-30 12:41:08.3281 INFO Returned owner with id: 3c22a5be-3d20-46f3-99be-f994c9870f1b
+2020-07-30 12:41:12.8379 INFO Returned all owners from database.
+2020-07-30 12:41:14.9229 INFO Returned owner with id: a3c1880c-674c-4d18-8f91-5d3608a2c937
+2020-07-30 12:41:16.4304 ERROR Cannot delete owner with id a3c1880c-674c-4d18-8f91-5d3608a2c937. Owner has existing accounts. Delete those accounts first
+2020-07-30 12:41:23.7059 INFO Returned all owners from database.
+2020-07-30 12:48:06.3144 INFO Returned owner with id: f98e4d74-0f68-4aac-89fd-047f1aaca6b6
+2020-07-30 12:48:11.8192 ERROR Cannot delete owner with id f98e4d74-0f68-4aac-89fd-047f1aaca6b6. Owner has existing accounts. Delete those accounts first
+2020-07-30 12:48:12.8464 ERROR Cannot delete owner with id f98e4d74-0f68-4aac-89fd-047f1aaca6b6. Owner has existing accounts. Delete those accounts first
+2020-07-30 12:48:13.3160 ERROR Cannot delete owner with id f98e4d74-0f68-4aac-89fd-047f1aaca6b6. Owner has existing accounts. Delete those accounts first
+2020-07-30 12:48:15.8143 ERROR Cannot delete owner with id f98e4d74-0f68-4aac-89fd-047f1aaca6b6. Owner has existing accounts. Delete those accounts first
+2020-07-30 12:48:16.9250 ERROR Cannot delete owner with id f98e4d74-0f68-4aac-89fd-047f1aaca6b6. Owner has existing accounts. Delete those accounts first
+2020-07-30 12:48:19.4267 INFO Returned all owners from database.
+2020-07-30 12:55:30.3803 INFO Returned owner with id: 90e0e311-27bf-47e5-9278-6e511272a7b7
+2020-07-30 12:55:46.0574 INFO Returned all owners from database.
+2020-07-30 12:55:51.4799 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2020-07-30 12:55:53.0593 ERROR Cannot delete owner with id 261e1685-cf26-494c-b17c-3546e65f5620. Owner has existing accounts. Delete those accounts first
+2020-07-30 12:57:24.8152 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2020-07-30 12:57:30.9667 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2020-07-30 12:57:36.2566 ERROR Cannot delete owner with id 261e1685-cf26-494c-b17c-3546e65f5620. Owner has existing accounts. Delete those accounts first
+2020-07-30 13:16:46.9867 INFO Returned all owners from database.
+2020-07-30 13:17:13.8411 INFO Returned all owners from database.
+2020-07-30 13:17:20.0007 INFO Returned owner with id: 5030c058-a5cf-45f0-9b91-7f9055493e4c
+2020-07-30 13:17:25.7151 INFO Returned all owners from database.
+2020-07-30 13:21:10.2542 INFO Returned all owners from database.
+2020-07-30 13:21:14.9583 INFO Returned all owners from database.
+2020-07-30 13:21:34.1179 INFO Returned all owners from database.
+2020-07-30 13:21:38.0604 INFO Returned owner with id: 0274a78a-0596-4d98-9b80-ab74806600a4
+2020-07-30 13:21:40.4784 INFO Returned all owners from database.
+2020-07-30 13:21:42.2673 INFO Returned owner with id: 261e1685-cf26-494c-b17c-3546e65f5620
+2020-07-30 13:21:43.4501 ERROR Cannot delete owner with id 261e1685-cf26-494c-b17c-3546e65f5620. Owner has existing accounts. Delete those accounts first
+2020-07-30 13:21:46.2204 INFO Returned all owners from database.
